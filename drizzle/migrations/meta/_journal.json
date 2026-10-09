@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790525306529,
+      "tag": "0000_ario_scripts_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790526052491,
+      "tag": "0001_thumbnails_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790526121985,
+      "tag": "0002_first_user_becomes_admin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790527360587,
+      "tag": "0003_appearance_announcements_and_safe_avatars",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790527471469,
+      "tag": "0004_category_images_and_admin_avatar_gallery",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1790610024412,
+      "tag": "0005_add_script_raw_loader_url",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790862955218,
+      "tag": "0006_raw_scripts",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1791018863909,
+      "tag": "0007_migration",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1791206609888,
+      "tag": "0008_admin_overview",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1791206784036,
+      "tag": "0009_one_active_key_per_user",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1791266512386,
+      "tag": "0010_fix_validate_key",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+- [x] Wire real statistics and refresh counters after script actions; verify the empty site's live totals.
+- [x] Add 50 themes, light/dark, themed notifications, and first-visit rocket welcome.
+- [x] Add moderated profile photos with secure upload and automatic suspension for clearly disallowed imagery.
+- [x] Add admin media manager and appearance/site controls.
+- [x] Extend announcements and confirm YouTube showcase/Lucide controls.
+- [x] Verify public pages and first-visit flow on desktop and mobile.
+- [x] Verify signed-in admin script creation and public loader display; remove the temporary test script.
+- [ ] Verify profile-photo moderation end to end with an uploaded image; not part of this loader/layout update.
+- [x] Add raw HTTPS loader links to admin scripts with a generated copyable loader on public script pages.
+- [x] Upgrade the first-visit rocket scene and correct phone-sized header and search layout.
+- [x] Mobile polish, smooth theme transitions with water ripple + themed 💧 toasts, admin Themes page (previews, accent, animations).
+- [x] Apply the frosted-glass mobile direction, expose script actions on phones, and polish admin navigation, cards, statistics, and overflow.
+- [x] Add optional UI sounds, enhanced themed notifications, and personal background options.
+- [x] Add verified assistant model selection and Roblox UI library selection; verify live AI request.
+- [x] Enhance admin dashboard: quick actions, live system status, key/raw stats, top scripts (database-backed).
+- [ ] Next spec sections: login upgrade (remember me, forgot password, Discord, email verification), user dashboard, admin roles & audit.
